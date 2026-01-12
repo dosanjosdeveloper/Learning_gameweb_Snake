@@ -1,2 +1,2 @@
-# Learning_gameweb_Snake
+# Learning game web Snake
 Repositório de Evolução do Game em Web Snake
